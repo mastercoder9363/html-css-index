@@ -2,3 +2,7 @@ h2{
     color: aqua;
     text-align: center;
 }
+a, h1{
+    color: blue;
+    text-align: center;
+}
